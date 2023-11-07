@@ -1,0 +1,31 @@
+{
+    "NAME": "RONoCareer",
+    "URL": "https://raw.githubusercontent.com/KSP-RO/RONoCareer/master/GameData/RONoCareer/RONoCareer.version",
+    "DOWNLOAD": "https://github.com/KSP-RO/RONoCareer/releases",
+    "GITHUB": {
+        "USERNAME": "KSP-RO",
+        "REPOSITORY": "RONoCareer",
+        "ALLOW_PRE_RELEASE": false
+    },
+    "VERSION": {
+        "MAJOR": 1,
+        "MINOR": 0,
+        "PATCH": 0,
+        "BUILD": 0
+    },
+    "KSP_VERSION": {
+        "MAJOR": "1",
+        "MINOR": "12",
+        "PATCH": "3"
+    },
+    "KSP_VERSION_MIN": {
+        "MAJOR": "1",
+        "MINOR": "12",
+        "PATCH": "0"
+    },
+    "KSP_VERSION_MAX": {
+        "MAJOR": "1",
+        "MINOR": "12",
+        "PATCH": "99"
+    }
+}
